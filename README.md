@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**shartial/shartial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi, i'm shar, i exist
+```md
+/-------------PROJECTS-------------/
+[flatgames] with @flatdog404 - an attempt at an unblockable game website, ran locally
+```
+```md
+/-------------CONTACT--------------/
+[email]  - shartialgaming@gmail.com
+[discord] - shartial
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shartial&custom_title=my%20stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=shartial&custom_title=my%20stats&show_icons=true&include_all_commits=true&theme=transparent)
