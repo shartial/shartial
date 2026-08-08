@@ -7,7 +7,4 @@ hi, i'm shar, i exist
 ```md
 /-------------CONTACT--------------/
 [email]  - shartialgaming@gmail.com
-[discord] - shartial
 ```
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shartial&custom_title=my%20stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=shartial&custom_title=my%20stats&show_icons=true&include_all_commits=true&theme=transparent)
