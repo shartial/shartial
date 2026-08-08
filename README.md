@@ -6,5 +6,5 @@ hi, i'm shar, i exist
 ```
 ```md
 /-------------CONTACT--------------/
-[email]  - shartialgaming@gmail.com
+[discord] - shartial
 ```
